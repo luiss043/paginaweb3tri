@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background: ;
     font-family: Bai Jamjuree;
 }
 
@@ -27,7 +27,8 @@ body{
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
-    border-radius: ;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
 
 
